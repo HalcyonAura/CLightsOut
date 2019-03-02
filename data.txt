@@ -1,0 +1,3 @@
+time: 23200 moves: 33
+time: 22847 moves: 33
+time: 20246 moves: 27
